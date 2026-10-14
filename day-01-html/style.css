@@ -125,7 +125,7 @@ nav a:hover{
     padding: 18px 22px;
     border-radius: 10px;
     font-size: 17px;
-    box-shadow: 0 3px 8px rgba(0,0,0.12);
+    box-shadow: 0 3px 8px rgba(0,0,0,0.12);
     transition: transform 0.3s ease, box-shadow 0.3s ease;
 }
 #menu li:hover {
@@ -243,4 +243,4 @@ nav a:hover{
         width: 90%;
         max-width: 300px;
     }
-}+
+}
